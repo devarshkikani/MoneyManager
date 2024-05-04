@@ -1,4 +1,4 @@
-# money_manager
+# demo_project
 
 A new Flutter project.
 

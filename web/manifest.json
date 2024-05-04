@@ -1,6 +1,6 @@
 {
-    "name": "money_manager",
-    "short_name": "money_manager",
+    "name": "demo_project",
+    "short_name": "demo_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
